@@ -1,1 +1,1 @@
-// PLace your Karma test in here
+// Place your Karma test in here
